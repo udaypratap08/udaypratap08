@@ -47,6 +47,12 @@ A learning platform with course management, educator tools and student learning 
 
 **Tech:** React · Node.js · Express.js · MongoDB · Clerk · Stripe
 
+<p>
+  <a href="https://learing-management-system-7j3t.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-00CFA6?style=for-the-badge" alt="Edemy Live Demo" />
+  </a>
+</p>
+
 ---
 
 ### 🌐 Personal Portfolio
