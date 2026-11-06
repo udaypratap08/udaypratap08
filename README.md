@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/udaypratap12/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://udaypratap-portfolio-iota.vercel.app/">
+  <a href="https://udaypratap-portfolio08.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00BFA6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
